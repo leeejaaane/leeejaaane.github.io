@@ -34,3 +34,14 @@ title: [Python]리스트와 append
 > 숫자:30
 > 숫자:40
 > 합계 ==> 100
+
+        #리스트 처음부터 끝까지 출력
+
+        print(numList[0:4])
+
+        print(numList[:4])
+
+
+
+
+
