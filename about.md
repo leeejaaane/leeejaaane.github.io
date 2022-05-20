@@ -2,6 +2,8 @@
 layout: page
 title: About
 permalink: /about/
+
+futrue: true
 ---
 
 UX/UI Designer and Coder who connect people with user-centered design process
