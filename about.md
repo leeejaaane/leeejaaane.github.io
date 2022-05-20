@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 
 published: True
+future: true
 ---
 
 UX/UI Designer and Coder who connect people with user-centered design process
